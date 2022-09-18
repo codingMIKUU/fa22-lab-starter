@@ -13,6 +13,6 @@ def fizzbuzz(num):
     print(f"{num}: buzz")
 
 for i in range(1, 20):
-  
+  fizzbuzz(i)
 
 # pretend there's code here...
