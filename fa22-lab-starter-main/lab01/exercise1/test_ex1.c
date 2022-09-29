@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <assert.h>
 #include <stdio.h>
 #include <string.h>
@@ -38,6 +39,6 @@ int main(int argc, char **argv) {
     /* TODO: Think of a scenario that is not tested by the current test cases. Create one additional test case to test this scenario. */
 
     printf("Congrats! If you have made it to this line, your Part 2 Test cases are all passing!\n");
-
+    
     return 0;
 }
